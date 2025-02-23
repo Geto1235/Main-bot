@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot using @whiskeysockets/baileys and AI integration",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "axios": "^1.5.1",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.13",
+    "puppeteer": "^23.9.0",
+    "puppeteer-core": "^23.9.0",
+    "qrcode-terminal": "^0.12.0",
+    "readline-sync": "^1.4.10",
+    "sharp": "^0.32.6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
